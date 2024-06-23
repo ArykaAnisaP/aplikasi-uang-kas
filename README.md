@@ -12,28 +12,6 @@ Cara memasangnya:
 6. Buka localhost/uang_kas
 7. Selesai
 
-Akun:
-
-Administrator:
-
-❥ Username: andri123
-
-❥ Password: 123456
-
-
-Bendahara:
-
-❥ Username: andre123
-
-❥ Password: 123456
-
-
-Guru:
-
-❥ Username: annisa321
-
-❥ Password: 123456
-
 
 Fitur:
 - Hak akses
